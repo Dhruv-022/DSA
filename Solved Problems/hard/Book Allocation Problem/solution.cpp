@@ -50,3 +50,5 @@ int main(){
     cout << bookallocation(arr, nob, nos) << endl; // Output the result
     return 0;
 }
+
+/*Done/*
